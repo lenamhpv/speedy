@@ -291,13 +291,16 @@ body{
     top: 600px;
     right: 470px;
 }
-.background-img2{
+
+.main .background-img {
     max-width: 1920px;
     position: absolute;
 }
-.background-img2 img{
+
+.main .background-img img{
     width: 100%;
 }
+
 .shop .write{
     margin-top: 180px;
 }
