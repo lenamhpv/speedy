@@ -67,7 +67,7 @@ button {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-bottom: 1px solid var(--gray-light);
+    border-bottom: #e2e2e2;
 }
 
 .contain .info-block {
